@@ -26,9 +26,6 @@ Perfect for beginners who want to understand how a calculator works behind the s
 
 ---
 
-## 📸 Preview
-![Calculator Preview](https://via.placeholder.com/600x300?text=Calculator+Preview)
-
 ---
 
 ## 💡 How to Use
