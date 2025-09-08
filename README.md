@@ -7,7 +7,7 @@ Perfect for beginners who want to understand how a calculator works behind the s
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to try the Calculator](https://sagorikaProduct.github.io/calculator/)
+👉 [Click here to try the Calculator](https://sagorikaproduct.github.io/Smart-Calculator/)
 
 ---
 
@@ -32,7 +32,7 @@ Perfect for beginners who want to understand how a calculator works behind the s
 ---
 
 ## 💡 How to Use
-1. Open the [Live Demo](https://sagorikaProduct.github.io/calculator/) in your browser.  
+1. Open the [Live Demo](https://sagorikaproduct.github.io/Smart-Calculator/) in your browser.  
 2. Use the number and operator buttons to perform calculations.  
 3. Hit **AC** to clear and **=** to get the result.  
 
